@@ -7,8 +7,7 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 </p>  
 
 <h3>Descrição do Projeto</h3>
-Projeto sobre a quarta temporada de Stranger Things, com interatividade tendo como objetivo falar sobre a nova temporada e dar a chance de se inscrever no clube HellFire da série. 
-Foi um projeto auxiliado pela DIO, na semana front-end. 
+Página sobre a quarta temporada de Stranger Things, utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase. Um projeto auxiliado pela DIO, na semana front-end.
 
 
 <h3> :heavy_check_mark: Tecnologias utilizadas </h3>
